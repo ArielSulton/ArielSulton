@@ -1,4 +1,4 @@
-## 👋 Hi there! I’m [ArielSulton](https://github.com/ArielSulton)! ![](https://visitor-badge.laobi.icu/badge?page_id=ArielSulton.ArielSulton) [![Github](https://img.shields.io/github/followers/ArielSulton?label=Follow&style=social)](https://github.com/ArielSulton)
+## 👋 Hi there! I’m [ArielSulton](https://github.com/ArielSulton)! ![Visitor](https://komarev.com/ghpvc/?username=ArielSulton&color=blue) [![Github](https://img.shields.io/github/followers/ArielSulton?label=Follow&style=social)](https://github.com/ArielSulton)
 
 <br />
 
