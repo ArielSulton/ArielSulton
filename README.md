@@ -7,7 +7,7 @@
 
 <br />
 
-## 👤 I'm an Applied Data Science Student at [Politeknik Elektronika Negeri Surabaya](https://www.pens.ac.id/)
+## 👤 I'm an Applied Data Science Student
 - 👀 I’m an enthusiast in data science, machine learning, and web development.
 - 🌱 I’m currently learning text processing and autonomous surface vessel development.
 - 📫 Feel free to reach out to me!
