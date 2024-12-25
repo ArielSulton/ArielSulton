@@ -14,7 +14,7 @@
 
 <br />
 
-## ⚡Technologies
+## 🛠️ Development Tools
 These are the technologies that I am currently use for my projects.
 
 ### Data Science & Machine Learning
