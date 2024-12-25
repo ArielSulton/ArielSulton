@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=ArielSulton.ArielSulton)
 [![Github](https://img.shields.io/github/followers/ArielSulton?label=Follow&style=social)](https://github.com/ArielSulton)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arielsulton/)](https://www.linkedin.com/in/arielsulton/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arielsulton/)](https://www.instagram.com/arielsulton/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arielsulton/)](https://www.instagram.com/arielsulton/)
 
 <br />
 
