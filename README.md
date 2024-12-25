@@ -15,7 +15,6 @@
 <br />
 
 ## 🛠️ Development Tools
-These are the technologies that I am currently use for my projects.
 
 ### Data Science & Machine Learning
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://github.com/ArielSulton?tab=repositories&language=python)
