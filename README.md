@@ -33,7 +33,7 @@
 [![Chart.js](https://img.shields.io/badge/-Chart.js-black?style=flat&logo=chart.js)](https://github.com/ArielSulton?tab=repositories)
 [![Power BI](https://img.shields.io/badge/-📊%20Power%20BI-black?style=flat)](https://github.com/ArielSulton?tab=repositories)
 [![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-black?style=flat&logo=looker)](https://github.com/ArielSulton?tab=repositories)
-[![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat&logo=tableau)](https://github.com/ArielSulton?tab=repositories)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)](https://github.com/ArielSulton?tab=repositories)
 [![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat&logo=grafana)](https://github.com/ArielSulton?tab=repositories)
 
 ### Frontend Development
