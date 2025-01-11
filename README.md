@@ -18,6 +18,7 @@
 
 ### Data Science & Machine Learning
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)](https://github.com/ArielSulton?tab=repositories&language=python)
+[![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=cpp)](https://github.com/ArielSulton?tab=repositories&language=python)
 [![R](https://img.shields.io/badge/-R-black?style=flat&logo=R)](https://github.com/ArielSulton?tab=repositories)
 [![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat&logo=numpy)](https://github.com/ArielSulton?tab=repositories)
 [![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)](https://github.com/ArielSulton?tab=repositories)
