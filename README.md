@@ -57,10 +57,11 @@
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)](https://github.com/ArielSulton?tab=repositories)
 
 ### Other Tools
-[![ROS](https://img.shields.io/badge/-ROS-black?style=flat&logo=ros)](https://github.com/ArielSulton?tab=repositories)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://github.com/ArielSulton?tab=repositories)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black.svg?style=flat&logo=postgresql)](https://github.com/ArielSulton?tab=repositories)
 [![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-black?style=flat&logo=apache-airflow)](https://github.com/ArielSulton?tab=repositories)
+[![ROS 1](https://img.shields.io/badge/-ROS%201-black?style=flat&logo=ros)](https://github.com/ArielSulton?tab=repositories)
+[![ROS 2](https://img.shields.io/badge/-ROS%202-black?style=flat&logo=ros)](https://github.com/ArielSulton?tab=repositories)
 [![Git](https://img.shields.io/badge/-Git-black.svg?style=flat&logo=git)](https://github.com/ArielSulton?tab=repositories)
 [![Docker](https://img.shields.io/badge/-Docker-black.svg?style=flat&logo=docker)](https://github.com/ArielSulton?tab=repositories)
 [![Figma](https://img.shields.io/badge/Figma-black.svg?style=flat&logo=figma&logoColor=23F24E1E)](https://github.com/ArielSulton?tab=repositories)
