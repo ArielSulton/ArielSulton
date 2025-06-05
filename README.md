@@ -8,8 +8,8 @@
 <br />
 
 ## 🧑‍💻 I'm an Applied Data Science Student
-- 👀 I’m an enthusiast in data science, machine learning, and web development.
-- 🌱 I’m currently learning natural language processing and surface vessel autonomous algorithm.
+- 👀 I’m an enthusiast in data science, artificial intelligence, and web development.
+- 🌱 I’m currently learning large language model and surface vessel autonomous algorithm.
 - 📫 Let's connect and feel free to reach out to me!
 
 <br />
