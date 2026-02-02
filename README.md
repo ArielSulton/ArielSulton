@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 I'm an Applied Data Science Student
 - 👀 I’m an enthusiast in data science, artificial intelligence, and web development.
-- 🌱 I’m currently learning large language model and surface vessel autonomous algorithm.
+- 🌱 I’m currently learning LLM integration and SaaS development.
 - 📫 Let's connect and feel free to reach out to me!
 
 <br />
@@ -67,10 +67,6 @@
 [![Canva](https://img.shields.io/badge/Canva-black.svg?style=flat&logo=Canva&logoColor=2300C4CC)](https://github.com/ArielSulton?tab=repositories)
 
 <br />
-
-## 🏆 My GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielSulton&count_private=true&show_icons=true&include_all_commits=true&show=reviews&theme=aura)](https://github.com/ArielSulton?tab=repositories)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielSulton&theme=aura&layout=compact&langs_count=10&card_width=360)](https://github.com/ArielSulton?tab=repositories)
 
 <!---
 ArielSulton/ArielSulton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
